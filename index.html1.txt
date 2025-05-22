@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Arshiya Indikar| Data Analyst Portfolio</title>
+</head>
+<body>
+  <h1>Hi, I'm Arshiya Indikar</h1>
+  <p>Aspiring Data Analyst | Skilled in Excel, SQL, Power BI</p>
+  <h2>Projects</h2>
+  <ul>
+    <li>Sales Dashboard in Excel</li>
+    <li>Customer Segmentation in Power BI</li>
+  </ul>
+  <h2>Contact</h2>
+  <p>Email: arshiyaindikar@gmail.com</p>
+</body>
+</html>
