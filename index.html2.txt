@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tarannum | Data Analyst Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Tarannum</h1>
+    <p>Aspiring Data Analyst | Skilled in Excel, SQL, Power BI</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a passionate and dedicated data analyst with strong skills in Excel, Power BI, and SQL.
+      I recently completed an SAP course and am building real-world projects to showcase my abilities.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Microsoft Excel – Intermediate</li>
+      <li>SQL – Basic</li>
+      <li>Power BI – Intermediate</li>
+      <li>Communication – Strong</li>
+      <li>Critical Thinking – Strong</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Sales Dashboard in Excel</h3>
+      <p>Visualized monthly sales performance using PivotTables and charts.</p>
+    </div>
+    <div class="project">
+      <h3>Customer Segmentation in Power BI</h3>
+      <p>Used demographic data to create interactive dashboards for customer behavior insights.</p>
+    </div>
+  </section>
+
+  <section id="resume">
+    <h2>Resume</h2>
+    <p>
+      <a href="resume.pdf" target="_blank">Download My Resume (PDF)</a>
+    </p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: tarannum@example.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
+    <p>GitHub: <a href="https://github.com/yourusername" target="_blank">github.com/yourusername</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Tarannum | Data Analyst Portfolio</p>
+  </footer>
+</body>
+</html>
