@@ -1,2 +1,56 @@
-# Portfolio
-“My Data Analyst Portfolio”
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Arshiya Indikar | Data Analyst Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Arshiya Indikar</h1>
+    <p>Aspiring Data Analyst | Skilled in Excel, SQL, Power BI</p>
+  </header>
+
+  <section id="about">
+    <h2>About Me</h2>
+    <p>
+      I am a passionate and detail-oriented data analyst with experience in Excel, Power BI, and SQL. I love working with data to solve problems and generate insights.
+    </p>
+  </section>
+
+  <section id="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>Excel – Intermediate</li>
+      <li>SQL – Basic</li>
+      <li>Power BI – Intermediate</li>
+      <li>Critical Thinking – Strong</li>
+      <li>Communication – Strong</li>
+    </ul>
+  </section>
+
+  <section id="projects">
+    <h2>Projects</h2>
+    <div class="project">
+      <h3>Sales Dashboard in Excel</h3>
+      <p>Created a sales dashboard using PivotTables and charts to analyze monthly performance.</p>
+    </div>
+    <div class="project">
+      <h3>Customer Segmentation in Power BI</h3>
+      <p>Built an interactive Power BI dashboard to visualize customer segments and demographics.</p>
+    </div>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Me</h2>
+    <p>Email: arshiya@example.com</p>
+    <p>LinkedIn: <a href="https://www.linkedin.com/in/arshiya" target="_blank">linkedin.com/in/arshiya</a></p>
+    <p>GitHub: <a href="https://github.com/Arshiya-Indikar" target="_blank">github.com/Arshiya-Indikar</a></p>
+  </section>
+
+  <footer>
+    <p>© 2025 Arshiya Indikar | Data Analyst Portfolio</p>
+  </footer>
+</body>
+</html>
